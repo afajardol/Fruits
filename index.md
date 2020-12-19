@@ -1,5 +1,6 @@
 ## BIENVENIDO A LA PAGINA DEL PROYECTO DE INTELIGENCIA ARTIFICIAL 
-<img src="https://www.hola.com/imagenes/estar-bien/20180615125699/frutas-que-nacieron-en-un-laboratorio-cs/0-576-558/frutasdelaboratorio-t.jpg" align="center" width="200" height="200">
+<div align="center"><img src="https://www.hola.com/imagenes/estar-bien/20180615125699/frutas-que-nacieron-en-un-laboratorio-cs/0-576-558/frutasdelaboratorio-t.jpg"></div>
+
 <div>Teachable Machine Image Model</div>
 <button type="button" onclick="init()">Start</button>
 <div id="webcam-container"></div>
