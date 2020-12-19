@@ -3,6 +3,7 @@
 
 <div>Teachable Machine Image Model</div>
 <button type="button" onclick="init()">Start</button>
+<div align = "center"
 <div id="webcam-container"></div>
 <div id="label-container"></div>
 <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@1.3.1/dist/tf.min.js"></script>
@@ -60,6 +61,7 @@
         }
     }
 </script>
+</div>
 
 <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
 <df-messenger
